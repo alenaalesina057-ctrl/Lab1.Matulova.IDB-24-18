@@ -1,0 +1,14 @@
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\bin\Debug\net8.0\l1_OOP.exe
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\bin\Debug\net8.0\l1_OOP.deps.json
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\bin\Debug\net8.0\l1_OOP.runtimeconfig.json
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\bin\Debug\net8.0\l1_OOP.dll
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\bin\Debug\net8.0\l1_OOP.pdb
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\obj\Debug\net8.0\l1_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\obj\Debug\net8.0\l1_OOP.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\obj\Debug\net8.0\l1_OOP.AssemblyInfo.cs
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\obj\Debug\net8.0\l1_OOP.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\obj\Debug\net8.0\l1_OOP.dll
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\obj\Debug\net8.0\refint\l1_OOP.dll
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\obj\Debug\net8.0\l1_OOP.pdb
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\obj\Debug\net8.0\l1_OOP.genruntimeconfig.cache
+C:\Users\admin\OneDrive\Desktop\учёба\ооп\l1_OOP\obj\Debug\net8.0\ref\l1_OOP.dll
